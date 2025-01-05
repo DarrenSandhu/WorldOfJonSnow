@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\n\ Class\ Character\ -\ a\ character\ in\ an\ adventure\ game.\n\n\ This\ class\ is\ part\ of\ the\ "World\ of\ Jon\ Snow"\ application.\ \n\ "World\ of\ Jon\ Snow"\ is\ a\ very\ simple,\ text\ based\ puzzle/adventure\ game.\ \ \n\n\ A\ "Character"\ represents\ one\ character\ in\ the\ game.\ A\ character\ can\ \n\ be\ in\ different\ rooms\ in\ the\ game.\ A\ character\ can\ hold\ different\ items,\n\ which\ can\ be\ given\ to\ the\ player.\n\ \n\ @author\ Darren\ Sandhu\ -\ k20052831\n\ @date\ 03/12/2021\n
+comment1.params=characterName\ characterItem
+comment1.target=Character(java.lang.String,\ Item)
+comment1.text=\n\ Create\ a\ character\ with\ a\ name\ and\ item\ it\ is\ holding.\n
+comment2.params=
+comment2.target=java.lang.String\ getCharacterName()
+comment2.text=\n\ Returns\ the\ characters\ name\n\ @return\ the\ characters\ name\n
+comment3.params=item
+comment3.target=void\ setItem(Item)
+comment3.text=\n\ Change\ item\ character\ is\ holding\ to\ item\ in\ paramter\n
+comment4.params=
+comment4.target=Item\ getCharacterItem()
+comment4.text=\n\ Returns\ the\ item\ the\ character\ is\ holding\n\ @return\ the\ item\ the\ character\ is\ holding\n
+comment5.params=
+comment5.target=java.lang.String\ getCharacterItemName()
+comment5.text=\n\ Returns\ the\ item\ name\ of\ the\ item\ the\ character\ is\ holding\n\ @return\ the\ item\ name\ of\ the\ item\ the\ character\ is\ holding\n
+numComments=6
